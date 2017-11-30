@@ -1,0 +1,10 @@
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\IViewer\IViewer\bin\Debug\IViewer.exe.config
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\IViewer\IViewer\bin\Debug\IViewer.exe
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\IViewer\IViewer\bin\Debug\IViewer.pdb
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\IViewer\IViewer\bin\Debug\IViewer.xml
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\IViewer\IViewer\obj\Debug\IViewer.Resources.resources
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\IViewer\IViewer\obj\Debug\IViewer.vbproj.GenerateResource.Cache
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\IViewer\IViewer\obj\Debug\IViewer.exe
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\IViewer\IViewer\obj\Debug\IViewer.xml
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\IViewer\IViewer\obj\Debug\IViewer.pdb
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\IViewer\IViewer\obj\Debug\IViewer.IV.resources
